@@ -1,2 +1,2 @@
 Nastassia Boksha
-https://www.codecademy.com/users/boshka0/achievements
+HTML CSS Basics: https://www.codecademy.com/users/boshka0/achievements
